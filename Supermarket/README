@@ -1,0 +1,7 @@
+BigMart Sale - Data Prep
+This is my attempt at the BigMart Sales competition:
+https://datahack.analyticsvidhya.com/contest/practice-problem-bigmart-sales-prediction/#problem_statement
+Given sales data across 10 stores, the aim is to predict sales for particular products at the different stores. 
+
+I use pandas to import, clean, and engineer the data, then use a few machine learning models to try and predict from the data
+
